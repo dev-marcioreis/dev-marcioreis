@@ -10,3 +10,4 @@
 - ⚡ Fun fact: ...
 
 Meu Github deu algum problema, mas já estou verificando.
+![image](https://user-images.githubusercontent.com/122680054/212476698-d18f7ddd-f024-48c3-b2c1-9b600cc4548d.png)
