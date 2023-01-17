@@ -17,5 +17,5 @@ Também estudo análise e desenvolvimento de sistemas, além de sempre aprender 
 * 🏅  Gosto de games, NFL, NBA e futebol.
 
 
-Meu Github deu algum problema, mas já estou verificando.
+Meu Github principal deu algum problema, estou verificando com o suporte.
 ![image](https://user-images.githubusercontent.com/122680054/212476698-d18f7ddd-f024-48c3-b2c1-9b600cc4548d.png)
