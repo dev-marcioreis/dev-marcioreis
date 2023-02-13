@@ -21,3 +21,5 @@ Também estudo análise e desenvolvimento de sistemas, além de sempre aprender 
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
+
+https://github-readme-stats.vercel.app/api?username=dev-marcioreis&show_icons=true&theme=transparent
