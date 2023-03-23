@@ -1,14 +1,13 @@
 Seja bem vindo!
 ==========================
 
+Meu nome é Márcio Reis, sou um desenvolvedor desde Novembro de 2020.<br>
+Tenho boa experiência e conhecimentos em diversas áreas em TI.
+Desenvolvedor apaixonado por criar interfaces de usuários incríveis, proporcionar a melhor experiência.
+Com habilidade, técnica, e foco em soluções eficazes, buscar sempre me aprimorar e agregar valor.
 
 
-Meu nome é Márcio Reis, sou um desenvolvedor front-end desde Novembro de 2020.<br>
-Saber analisar e resolver um problema é mais importante do que decorar os comandos de uma linguagem.<br>
-Meu foco principal é o desenvolvimento front-end, fazendo aplicações que impactam a vida de usuários, clientes e amigos.<br>
-Também estudo análise e desenvolvimento de sistemas, além de sempre aprender novas tecnologias.
-
-* 🌍  Moro em São Paulo, SP - Brasil.
+* 🌍  São Paulo, SP - Brasil.
 * 💻  Trabalho como dev front-end freelancer.
 * 🧠  Sempre estudando e me aperfeiçoando.
 * 🤝  Estou sempre aberto para novos desafios e aprender, claro.
