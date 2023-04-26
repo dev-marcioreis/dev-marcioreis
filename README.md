@@ -14,10 +14,10 @@ Português nativo e inglês intermediário.
 HTML, CSS, SASS, Tailwind, Styled Components, JavaScript, TypeScript, React, React Native e VueJS.
 
 ## Conhecimentos
-HTTP, DNS, API, Git, Figma, Jest, Testing Library, Design patterns, MySQL, Firebase, PHP e Office avançado. 
+HTTP, DNS, API, Git, Figma, Jest, Testing Library, Design patterns, MySQL, Firebase e PHP. 
 
 ## Treinamentos
-Conceitos de estrutura de redes, gerenciamento de ramais Avaya e Cisco, gerenciamento de e-mails Lotus Notes, Itil Fundation, metodologias ágeis (Scrum), SEO, performance web e acessibilidade web.
+SEO, performance web e acessibilidade web.
 
 ## Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="30" />&nbsp;&nbsp;
