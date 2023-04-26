@@ -1,25 +1,25 @@
-## Seja bem vindo!
+## 🤝 Seja bem vindo!
 
 Meu nome é Márcio Reis, sou um desenvolvedor desde Outubro de 2020.<br>
 Tenho boas experiências e conhecimentos em diversas áreas em TI.
 Desenvolvedor apaixonado por criar interfaces de usuários incríveis, proporcionar a melhor experiência, com habilidades técnicas, foco em soluções eficazes, e buscando sempre me aprimorar e agregar valor ao negócio.
 
-## Formação
+## ✍️ Formação
 Análise e Desenvolvimento de Sistemas
 
-## Idiomas
+## 🌐 Idiomas
 Português nativo e inglês intermediário.
 
-## Desenvolvimento
+## 🧑‍💻 Desenvolvimento
 HTML, CSS, SASS, Tailwind, Styled Components, JavaScript, TypeScript, React, React Native e VueJS.
 
-## Conhecimentos
+## 📚 Conhecimentos
 HTTP, DNS, API, Git, Figma, Jest, Testing Library, Design patterns, MySQL, Firebase e PHP. 
 
-## Treinamentos
+## 🔥 Treinamentos
 SEO, performance web e acessibilidade web.
 
-## Tecnologias
+## 🤙 Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="30" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="30" />&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="30" />&nbsp;&nbsp;&nbsp;
