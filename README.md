@@ -1,6 +1,5 @@
 ## 🤝 Seja bem vindo!
 
-Tenho boas experiências e conhecimentos em diversas áreas em TI.
 Desenvolvedor apaixonado por criar interfaces de usuários incríveis, proporcionar a melhor experiência, com habilidades técnicas, foco em soluções eficazes, e buscando sempre me aprimorar e agregar valor ao negócio.
 
 ## ✍️ Formação
