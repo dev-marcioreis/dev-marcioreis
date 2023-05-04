@@ -31,6 +31,8 @@ SEO, performance web e acessibilidade web.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="30" />&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" width="30" />&nbsp;&nbsp;&nbsp;
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-marcioreis&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
           
           
           
