@@ -1,6 +1,6 @@
 ## 🤝 Seja bem vindo!
 
-Desenvolvedor apaixonado por criar interfaces de usuários incríveis, proporcionar a melhor experiência, com habilidades técnicas, foco em soluções eficazes, e buscando sempre me aprimorar e agregar valor ao negócio.
+Desenvolvedor apaixonado por criar interfaces de usuário incríveis, proporcionar a melhor experiência, com habilidades técnicas, foco em soluções eficazes, e buscando sempre me aprimorar e agregar valor ao negócio.
 
 ## ✍️ Formação
 Análise e Desenvolvimento de Sistemas
