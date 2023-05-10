@@ -19,8 +19,6 @@ SEO, performance web e acessibilidade web.
 
 ## 🤙 Tecnologias
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-marcioreis&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="30" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="30" />&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="30" />&nbsp;&nbsp;&nbsp;
