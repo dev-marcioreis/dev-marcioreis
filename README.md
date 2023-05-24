@@ -1,21 +1,21 @@
-## 🤝 Seja bem vindo!
+## 🤝 Seja Bem-vindo(a)!
 
-Desenvolvedor apaixonado por criar interfaces de usuário incríveis, proporcionar a melhor experiência, com habilidades técnicas, foco em soluções eficazes, e buscando sempre me aprimorar e agregar valor ao negócio.
+Desenvolvedor apaixonado por criar interfaces de usuário incríveis, proporcionar a melhor experiência, com habilidades técnicas, foco em soluções eficazes e, buscando sempre me aprimorar e agregar valor ao negócio.
 
 ## ✍️ Formação
 Análise e Desenvolvimento de Sistemas
 
 ## 🌐 Idiomas
-Português nativo e inglês intermediário.
+Português nativo e Inglês intermediário.
 
 ## 🧑‍💻 Desenvolvimento
-HTML, CSS, SASS, Tailwind, Styled Components, JavaScript, React, VueJS, PHP e MySQL.
+HTML5 | CSS3 | SASS | Tailwind | Styled Components | JavaScript | TypeScript | PHP | React | Vue | Flutter | Jest | Testing Library | Git | Github | MySQL | Firebase
 
 ## 📚 Conhecimentos
-HTTP, DNS, API, Git, TypeScript, Figma, Github, Jest, Testing Library, Design patterns e Firebase.
+HTTP | DNS | API | Rest | TCP/IP | XML | JSON | Figma | SEO
 
 ## 🔥 Treinamentos
-SEO, performance web e acessibilidade web.
+Performance web | Acessibilidade web
 
 ## 🤙 Tecnologias
 
