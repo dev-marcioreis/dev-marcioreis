@@ -9,10 +9,10 @@ Análise e Desenvolvimento de Sistemas
 Português nativo e Inglês intermediário.
 
 ## 🧑‍💻 Desenvolvimento
-HTML5 | CSS3 | SASS | Tailwind | Styled Components | JavaScript | TypeScript | PHP | React | Vue | Flutter | Jest | Testing Library | Git | Github | MySQL | Firebase
+HTML5 | CSS3 | SASS | Tailwind | Styled Components | JavaScript | TypeScript | PHP | React | VueJS | Jest | Testing Library | Git | Github | MySQL | Firebase |
 
 ## 📚 Conhecimentos
-HTTP | DNS | API | Rest | TCP/IP | XML | JSON | Figma | SEO
+HTTP | DNS | API | Rest | TCP/IP | XML | JSON | Figma | SEO |
 
 ## 🔥 Treinamentos
 Performance web | Acessibilidade web
