@@ -6,18 +6,21 @@ Desenvolvedor apaixonado por criar interfaces de usuário incríveis, proporcion
 Análise e Desenvolvimento de Sistemas
 
 ## 🌐 Idiomas
-Português nativo e Inglês intermediário.
+Português nativo | Inglês intermediário
 
 ## 🧑‍💻 Desenvolvimento
-HTML5 | CSS3 | SASS | Tailwind | Styled Components | JavaScript | TypeScript | PHP | React | VueJS | Jest | Testing Library | Git | Github | MySQL | Firebase |
+HTML5 | CSS3 | SASS | Tailwind | Styled Components | JavaScript| React | VueJS
 
 ## 📚 Conhecimentos
-HTTP | DNS | API | Rest | TCP/IP | XML | JSON | Figma | SEO |
+API | XML | JSON | Figma | SEO | PHP | MySQL | Firebase | Jest |Testing Library | Git | Github
+
+## 🎒 Estudando
+TypeScript | NextJS | NestJS
 
 ## 🔥 Treinamentos
 Performance web | Acessibilidade web
 
-## 🤙 Mais utilizadas
+## 🤙 Tecnologias mais utilizadas
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="30" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="30" />&nbsp;&nbsp;&nbsp;
