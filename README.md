@@ -9,16 +9,16 @@ Análise e Desenvolvimento de Sistemas
 Português nativo | Inglês intermediário
 
 ## 🧑‍💻 Desenvolvimento
-HTML5 | CSS3 | SASS | Tailwind | Styled Components | JavaScript| React | VueJS
+HTML5 | CSS3 | SASS | Tailwind | Styled Components | JavaScript| React | Vue
 
 ## 📚 Conhecimentos
-API | XML | JSON | Figma | SEO | PHP | MySQL | Firebase | Jest |Testing Library | Git | Github
+API | JSON | Figma | SEO | PHP | MySQL | Firebase | Jest |Testing Library | Git | Github
 
 ## 🎒 Estudando
-TypeScript | NextJS | NestJS
+TypeScript | NextJS
 
 ## 🔥 Treinamentos
-Performance web | Acessibilidade web
+Performance web | Acessibilidade web | Scrum | Lógica de programação 
 
 ## 🤙 Tecnologias mais utilizadas
 
