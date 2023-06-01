@@ -15,7 +15,7 @@ HTML5 | CSS3 | SASS | Tailwind | Styled Components | JavaScript| React | Vue
 API | JSON | Figma | SEO | PHP | MySQL | Firebase | Jest |Testing Library | Git | Github
 
 ## 🎒 Estudando
-TypeScript | NextJS
+TypeScript | NextJS | Linux
 
 ## 🔥 Treinamentos
 Performance web | Acessibilidade web | Scrum | Lógica de programação 
