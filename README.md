@@ -12,7 +12,7 @@ Português nativo | Inglês intermediário
 HTML5 | CSS3 | SASS | Tailwind | Styled Components | JavaScript| React | Vue
 
 ## 📚 Conhecimentos
-API | JSON | Figma | SEO | PHP | MySQL | Firebase | Jest |Testing Library | Git | Github
+API | JSON | Figma | SEO | PHP | MySQL | Firebase | Jest |Testing Library | Git
 
 ## 🎒 Estudando
 TypeScript | NextJS | Linux
