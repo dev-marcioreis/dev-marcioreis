@@ -1,6 +1,8 @@
 ## 🤝 Seja Bem-vindo(a)!
 
-Desenvolvedor apaixonado por criar interfaces de usuário incríveis, proporcionar a melhor experiência, com habilidades técnicas, foco em soluções eficazes e, buscando sempre me aprimorar e agregar valor ao negócio.
+Sou desenvolvedor Front-end desde outubro de 2020.
+Tenho experiência em desenvolvimento web e, desenvolvo aplicações em código funcional, otimizado e responsivo.
+Disponho de algumas habilidades técnicas, sempre estou estudando, aprendendo e melhorando, me aperfeiçoado no que já sei e, evoluindo na área que gosto.
 
 ## ✍️ Formação
 Análise e Desenvolvimento de Sistemas
@@ -8,14 +10,19 @@ Análise e Desenvolvimento de Sistemas
 ## 🌐 Idiomas
 Português nativo | Inglês intermediário
 
-## 🧑‍💻 Desenvolvimento
-HTML5 | CSS3 | SASS | Tailwind | Styled Components | JavaScript | TypeScript | React | Vue | Next | Angular
-
-## 📚 Conhecimentos
-API | JSON | Figma | SEO | PHP | MySQL | Firebase | Jest | Testing Library | Git | Github | Linux
-
-## 🔥 Treinamentos
-Performance web | Acessibilidade web | Scrum | Lógica de programação | Itil | Google Cloud
+## 🧑‍💻 Habilidades Técnicas
+Linguagens de programação: JavaScript, TypeScript, PHP (...Básico)<br>
+Desenvolvimento: HTML5<br>
+Estilizações e bibliotecas: CSS3, SASS, Tailwind, Styled Components<br>
+Frameworks: React.js, Vue.js, Next.js<br>
+Testes: Jest, Testing Library, Cypress<br>
+Controle de versão: Git<br>
+Conhecimentos: API, JSON, Figma, SEO, Github, G Suite, AD, Design System e Office (...Avançado)<br>
+Sistemas operacionais: Windows, Linux<br>
+Banco de dados: MySQL, Firebase<br>
+Metodologia ágil: Scrum<br>
+Treinamentos: Itil, Google Cloud, Conceitos de estruturas de rede, Gerenciamento de ramais Cisco e Avaya, Gerenciamento Lotus Notes, Performance Web, Acessibilidade Web, Lógica de programação e Microinformática.<br>
+Ferramentas de desenvolvimento: VS Code, Gulp<br>
 
 ## 🤙 Tecnologias mais utilizadas
 
