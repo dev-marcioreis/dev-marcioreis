@@ -2,7 +2,7 @@
 
 Sou desenvolvedor Front-end desde outubro de 2020.
 Tenho experiência em desenvolvimento web e, desenvolvo aplicações em código funcional, otimizado e responsivo.
-Disponho de algumas habilidades técnicas, sempre estou estudando, aprendendo e melhorando, me aperfeiçoado no que já sei e, evoluindo na área que gosto.
+Disponho de algumas habilidades técnicas, sempre estudando, melhorando minhas habilidades, aperfeiçoando-as, aprendendo novas, evoluindo na área de que gosto.
 
 ## ✍️ Formação
 Análise e Desenvolvimento de Sistemas
