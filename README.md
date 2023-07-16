@@ -2,7 +2,7 @@
 
 Sou desenvolvedor web Front-end desde outubro de 2020.<br>
 Tenho experiência como freelancer, desenvolvo aplicações em código funcional, otimizado e responsivo.<br>
-Tenho algumas habilidades técnicas, sempre estou estudando, melhorando minhas habilidades, aperfeiçoando-as, aprendendo novas, evoluindo na área de que gosto.<br>
+Tenho algumas habilidades técnicas, sempre estou estudando, melhorando-as, aperfeiçoando-as, aprendendo novas, evoluindo na área de que gosto.<br>
 
 ##
 
